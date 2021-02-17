@@ -127,3 +127,33 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Examples
+examples/
+course_notebooks/
+
+# Pycharm
+.idea
+
+# Udacity
+jwt
+to_submit/
+*.json
+*.zip
+rejected/
+resources/
+.udacity-pa/
+
+## Datasets
+lfw/
+dogImages/
+
+## Pytorch
+*.pt
+*.pth
+
+# Archives
+*.gz
+data/
+old_runs/
+
